@@ -1,8 +1,8 @@
 # The Adventure Of An Onion
 
 ## To-Do List
-- [ ] Blender
-- [ ] Shader
+- [x] Blender
+- [x] Shader
 - [ ] Animation
 - [ ] Storyboard
 
@@ -27,8 +27,8 @@
   * Keyframe animation
 
 <p float="left">
-	<img src="./pix/oh.jpg" width=450 />
-	<img src="./pix/animation.jpg" width=450 />
+	<img src="./storyboard/images/storyboard_1.jpeg" width=450 />
+	<img src="./storyboard/images/storyboard_2.jpeg" width=450 />
 </p>
 
 ## Resources
