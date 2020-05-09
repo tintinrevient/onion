@@ -1,4 +1,4 @@
-# The Adventure Of An Onion
+# The Adventure Of The Onion
 
 ## To-Do List
 - [x] Blender
