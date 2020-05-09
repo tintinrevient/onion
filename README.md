@@ -3,8 +3,8 @@
 ## To-Do List
 - [x] Blender
 - [x] Shader
+- [x] Storyboard
 - [ ] Animation
-- [ ] Storyboard
 
 ## PoC
 * Light and Shadow
