@@ -41,6 +41,8 @@
 * https://alteredqualia.com/
 * https://hdrihaven.com/
 * https://unsplash.com/
+* https://isorepublic.com/
+* https://www.poliigon.com/
 
 ## Tools
 * http://www.akjava.com/demo/bvhplayer/
