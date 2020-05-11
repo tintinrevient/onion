@@ -39,6 +39,8 @@
 * https://3dwarehouse.sketchup.com/
 * https://www.renderosity.com/
 * https://alteredqualia.com/
+* https://hdrihaven.com/
+* https://unsplash.com/
 
 ## Tools
 * http://www.akjava.com/demo/bvhplayer/
